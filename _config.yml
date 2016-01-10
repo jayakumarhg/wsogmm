@@ -11,6 +11,9 @@ url:                 https://wsogmm.net
 paginate:            5
 baseurl:             ""
 
+# Config params
+timezone:            "Asia/Calcutta"
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -27,4 +30,4 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jayakumarhg/wsogmm
