@@ -1,0 +1,33 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               WSOGMM
+tagline:             Whole Sort of General Mish Mash
+url:                 https://wsogmm.net
+paginate:            5
+baseurl:             ""
+
+# Config params
+timezone:            "Asia/Calcutta"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jayakumar Hoskere
+  url:               https://jayakumarhg.net
+  email:             jayakumarhg@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/jayakumarhg/wsogmm
