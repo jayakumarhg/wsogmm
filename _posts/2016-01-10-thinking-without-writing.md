@@ -34,8 +34,8 @@ that “[perfect is the enemy of good][3]”. So, this blog is a personal attemp
 take time to think through writing.
 
 
-[1]:writinghttps://channel9.msdn.com/Events/Build/2014/3-642
-[2]:642http://ucsdnews.ucsd.edu/pressrelease/u.s._media_consumption_to_rise_to_15.5_hours_a_day_per_person_by_2015
-[3]:5_hours_a_day_per_person_by_2015https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good
+[1]: https://channel9.msdn.com/Events/Build/2014/3-642
+[2]: http://ucsdnews.ucsd.edu/pressrelease/u.s._media_consumption_to_rise_to_15.5_hours_a_day_per_person_by_2015
+[3]: https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good
 
 [image-1]: https://pbs.twimg.com/media/B7ztoglIcAALdAk.jpg "Writing is nature's way of letting you know how sloppy your thinking is."
