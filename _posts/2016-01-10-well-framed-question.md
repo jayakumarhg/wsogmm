@@ -10,4 +10,4 @@ Mark Mason in [The Most Import Question Of Your Life][1]:
 
 Nice perspective.
 
-[1]:  http://markmanson.net/question
+[1]: http://markmanson.net/question
