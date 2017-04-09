@@ -5,7 +5,7 @@ date: 2016-01-10 20:00:00 +05:30
 ---
 
 “If you are thinking without writing, you only _think_ you are thinking.” says
-Lessie Lamport in [Thinking for Programmers][1] talk. Having always wanted to
+Leslie Lamport in [Thinking for Programmers][1] talk. Having always wanted to
 maintain a blog, this got me thinking about writing regularly.
 
 ![Writing is nature’s way of letting you know how sloppy your thinking
