@@ -1,7 +1,9 @@
 WSOGMM - Whole Sort of General Mish Mash
 ========================================
 
-This "master" branch contains code and docs related to maintaining the WSOGMM blog at [wsogmm.net](http://wsogmm.net). The "gh-pages" branch contains the actual data for the blog.
+This is the code repository for [wsogmm.net](https://wsogmm.net), a website by [Jayakumar Hoskere](https://github.com/jayakumarhg).
 
-The layouts are based on Poole (http://getpoole.com), a theme for Jekyll, the underlying static site generator used by GitHub pages. 
+The website is hosted on [GitHub Pages](https://pages.github.com) using [Jekyll](https://jekyllrb.com), a static website generator, and is using the [Hyde](https://hyde.getpoole.com) theme based on [Poole](https://getpoole.com).
 
+The "master" branch contains code and docs for maintaining the website.
+The "gh-pages" branch contains the static data for website.
