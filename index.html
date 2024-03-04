@@ -12,7 +12,13 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <div class="post-subtitle">
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
+        {{ post.date | date_to_string }}
+      </time>
+      -
+      <span class="post-author">{{site.author.name}}</span>
+    </div>
 
     {{ post.content }}
   </article>
